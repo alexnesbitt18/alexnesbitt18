@@ -1,5 +1,5 @@
 - Hi, I’m @alexnesbitt18
-- I am new to software engineering and am self-taught as of now. 
+- I am new to software engineering and have recieved accredidation through TrueCoders as well as self-taught lessons. 
 - I am currently diving deep into JS, C#, and other foundational languages.
 - I love baseball, video games, and going out to the gym for some exercise. 
 
